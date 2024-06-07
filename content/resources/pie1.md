@@ -4,6 +4,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /courses/18-226-probabilistic-method-in-combinatorics-fall-2020/pie1.png
+file_size: 11451
 file_type: image/png
 image_metadata:
   caption: ''
