@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-226-probabilistic-method-in-combinatorics-fall-2020/mit18_226f20_full_notes.pdf
+file: /ol-ocw-studio-app/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/mit18_226f20_full_notes.pdf
 file_size: 1293664
 file_type: application/pdf
 image_metadata:

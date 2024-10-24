@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: /courses/18-226-probabilistic-method-in-combinatorics-fall-2020/pie_out.png
+file: /ol-ocw-studio-app/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/pie_out.png
 file_size: 8251
 file_type: image/png
 image_metadata:
